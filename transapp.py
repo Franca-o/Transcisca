@@ -16,7 +16,7 @@ import webbrowser
 from bs4 import BeautifulSoup
 
 
-os.environ["OPENAI_API_KEY"]="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"
+os.environ["OPENAI_API_KEY"]="#enter open ai API KEY"
 model= whisper.load_model("base")
 embeddings = OpenAIEmbeddings()
 transcription=""
