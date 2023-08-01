@@ -1,0 +1,9 @@
+langchain
+openai
+git+https://github.com/openai/whisper.git 
+PyPDF2
+pytube
+beautifulsoup4
+ffmpeg
+transformers
+torch
